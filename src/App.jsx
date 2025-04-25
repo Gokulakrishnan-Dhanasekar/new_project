@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <button>hello shadcn</button>
+      <button>hegwdayg</button>
     </>
   )
 }
