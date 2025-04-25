@@ -1,10 +1,11 @@
-function App() {
+import { Link } from 'react-router-dom';
 
+function App() {
   return (
-    <>
-      <button>hegwdayg</button>
-    </>
-  )
+    <div>
+      <h2>Home Page</h2>
+    </div>
+  );
 }
 
-export default App
+export default App;
